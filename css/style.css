@@ -14,8 +14,8 @@
     max-width: 100%;
 }
 
-h1{
-    padding:10px
+h1 h2{
+    padding:10px;
 }
 
 .box{
@@ -54,3 +54,23 @@ h1{
     padding-top: 15px;
 }
 
+.box-big{
+    height: 100px;
+}
+
+
+.box-middle{
+    align-items: center;
+}
+
+.box-bottom{
+    align-items: flex-end;
+}
+
+.row-space-around{
+    justify-content: space-around;
+}
+
+.row-space-between{
+    justify-content: space-between;
+}
